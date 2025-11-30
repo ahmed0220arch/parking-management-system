@@ -1,0 +1,31 @@
+# Java/Spring Boot
+Back-end/parking-system/target/
+Back-end/parking-system/.mvn/
+Back-end/parking-system/mvnw
+Back-end/parking-system/mvnw.cmd
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Node/Next.js
+Front-end/parking-frontend/node_modules/
+Front-end/parking-frontend/.next/
+Front-end/parking-frontend/out/
+Front-end/parking-frontend/.env*.local
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
